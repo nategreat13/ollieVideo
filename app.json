@@ -1,0 +1,17 @@
+{
+  "name": "ollieVideo",
+  "displayName": "ollieVideo",
+  "expo": {
+    "name": "ollieVideo",
+    "slug": "ollieVideo",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
